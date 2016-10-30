@@ -1,0 +1,183 @@
+----------------------------------------------------------------------------
+SUMMARY-            Translator Settings
+----------------------------------------------------------------------------
+UNITS                                              = ENGLISH                                           
+MAX_SPLINE_DEGREE                                  = 3                                                 
+UGI_IMPORT_POLYLINE                                = SPLINE                                            
+UGI_DIM_IMPORT_FLAG                                = REAL                                              
+FILL_MODE                                          = OFF                                               
+IMPORT_ACAD_MODEL_DATA                             = YES                                               
+IMPORT_ACAD_MODEL_DATA_TO                          = MODELING                                          
+IMPORT_ACAD_LAYOUTS                                = NO                                                
+IMPORT_ACAD_LAYOUTS_TO                             = IMPORTED_VIEW                                     
+IMPORT_ACAD_CURVES_ON_SKETCH                       = NO                                                
+AVOID_NX_TEMPLATE_PART_LAYERS                      = YES                                               
+SET_NX_LAYER_NUMBER_FROM_PREFIX                    = NO                                                
+SKIP_UNREFERENCED_ACAD_LAYERS                      = YES                                               
+IMPORT_UNSELECTED_ACAD_LAYERS                      = NO                                                
+IMPORT_UNSELECTED_ACAD_LAYERS_TO                   = 256                                               
+NON_NUMERIC_LAYER_SORTING_CRITERIA                 = ALPHABETICAL                                      
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Layer Mapping Info
+----------------------------------------------------------------------------
+ACAD Layer                                        NX Layer                                          
+------------                                      -----------                                       
+0                                                 1                                                 
+pcbgroup                                          90                                                
+ID11                                              4                                                 
+ID19                                              18                                                
+ID25                                              29                                                
+ID31                                              40                                                
+ID37                                              51                                                
+ID43                                              62                                                
+ID51                                              77                                                
+ID64                                              85                                                
+ID70                                              86                                                
+ID83                                              87                                                
+ID89                                              88                                                
+ID95                                              89                                                
+ID101                                             2                                                 
+ID107                                             3                                                 
+ID113                                             5                                                 
+ID119                                             6                                                 
+ID125                                             7                                                 
+ID131                                             8                                                 
+ID137                                             9                                                 
+ID143                                             10                                                
+ID149                                             11                                                
+ID155                                             12                                                
+ID161                                             13                                                
+ID167                                             14                                                
+ID173                                             15                                                
+ID179                                             16                                                
+ID185                                             17                                                
+ID191                                             19                                                
+ID197                                             20                                                
+ID203                                             21                                                
+ID209                                             22                                                
+ID215                                             23                                                
+ID221                                             24                                                
+ID227                                             25                                                
+ID233                                             26                                                
+ID239                                             27                                                
+ID245                                             28                                                
+ID251                                             30                                                
+ID257                                             31                                                
+ID263                                             32                                                
+ID269                                             33                                                
+ID275                                             34                                                
+ID281                                             35                                                
+ID287                                             36                                                
+ID293                                             37                                                
+ID299                                             38                                                
+ID305                                             39                                                
+ID311                                             41                                                
+ID317                                             42                                                
+ID323                                             43                                                
+ID329                                             44                                                
+ID335                                             45                                                
+ID341                                             46                                                
+ID347                                             47                                                
+ID353                                             48                                                
+ID359                                             49                                                
+ID365                                             50                                                
+ID371                                             52                                                
+ID377                                             53                                                
+ID383                                             54                                                
+ID389                                             55                                                
+ID395                                             56                                                
+ID401                                             57                                                
+ID407                                             58                                                
+ID413                                             59                                                
+ID419                                             60                                                
+ID425                                             61                                                
+ID431                                             63                                                
+ID437                                             64                                                
+ID443                                             65                                                
+ID449                                             66                                                
+ID455                                             67                                                
+ID461                                             68                                                
+ID467                                             69                                                
+ID473                                             70                                                
+ID479                                             71                                                
+ID485                                             72                                                
+ID491                                             73                                                
+ID497                                             74                                                
+ID503                                             75                                                
+ID509                                             76                                                
+ID515                                             78                                                
+ID521                                             79                                                
+ID527                                             80                                                
+ID533                                             81                                                
+ID539                                             82                                                
+ID545                                             83                                                
+ID551                                             84                                                
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Linefonts Mapping Info
+----------------------------------------------------------------------------
+ACAD Linefont                                     NX Linefont                                       
+------------                                      -----------                                       
+CONTINUOUS                                        Solid                                             
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD Text Fonts And NX Text Fonts Info
+----------------------------------------------------------------------------
+ACAD TextFont                                     NX TextFont                                       
+------------                                      -----------                                       
+txt.shx                                           Arial Unicode MS                                  
+-------------------------------End------------------------------------------
+
+----------------------------------------------------------------------------
+SUMMARY-            ACAD and NX Hatch Pattern Mapping Info
+----------------------------------------------------------------------------
+ACAD Hatch Pattern                                NX Hatch Pattern                                  
+------------                                      -----------                                       
+
+-None-
+-------------------------------End------------------------------------------
+
+INFO-
+INFO-		AutoCAD 15 to Unigraphics Version NX V8.5
+INFO-		3.08
+INFO-
+INFO-		Running DXFTOUG Translator .....
+INFO-
+INFO-		Start of Translation: Tue Jan 20 13:06:32 2015
+INFO-
+STATUS-		Converting \\128.173.51.114\fsae\2015\2015 Electrical\Back Bus\busboard_rev2_mm.dxf
+STATUS-
+SUMMARY-
+SUMMARY-	Summary of AutoCAD Input Entities
+SUMMARY-	For AutoCAD File: \\128.173.51.114\fsae\2015\2015 Electrical\Back Bus\busboard_rev2_mm.dxf
+SUMMARY-SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Polyline .................................:	89
+SUMMARY-	Layout ...................................:	1
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	90
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+STATUS-
+INFO-
+INFO-		Writing File: \\128.173.51.114\fsae\2015\2015 Electrical\Back Bus\busboard_rev2_mm.prt
+SUMMARY-	Summary of UG Output Entities
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Entity Type					Count
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Group ....................................:	1
+SUMMARY-	Layout ...................................:	1
+SUMMARY-	Surface ..................................:	89
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-	Total ....................................:	91
+SUMMARY-	------------------------------------------------------------------
+SUMMARY-
+INFO-
+INFO-		End of Translation: Tue Jan 20 13:06:33 2015
+INFO-		Translation CPU time: 0 m, 1 s
+INFO-
